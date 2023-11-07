@@ -14,19 +14,25 @@ Based on different operating system
 
 **`Then activate the venv`**
 
-    Window:
-    open cmd and run :venv/bin/activate
-    
-    Linux:
-    open terminal and run  source venv/bin/activate
-    
-    MAC:
-    open terminal and run source venv/bin/activate
+Window:
+open cmd and run :
+
+    venv/bin/activate
+
+Linux:
+open terminal and run  
+
+    source venv/bin/activate
+
+MAC:
+open terminal and run source 
+
+    venv/bin/activate
 
 `Then you can run the application by using following command`
 
 
-`python main.py arduino_port`
+    python main.py arduino_port
 
 Replace arduino port with the port your arduino connected to
 
